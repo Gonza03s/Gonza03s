@@ -30,12 +30,9 @@
 
  <h2> ✉️ / How to reach me / :</h2>
 <div align="left"> 
-  
-  <a href="mailto: Gonzalosuar03@hotmail.com">
-  <img src="https://img.shields.io/badge/Gonzalosuar03%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
-  <a  href="https://www.instagram.com/gonzasuarez03/"> <img src="https://img.shields.io/badge/@gonzasuarez03_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto: Gonzalosuar03@hotmail.com"> <img src="https://img.shields.io/badge/Gonzalosuar03%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white"> </a>
+  <a  href="https://www.instagram.com/gonzasuarez03/"> <img src="https://img.shields.io/badge/@gonzasuarez03_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> </a>
   <a href="https://steamcommunity.com/id/glz18/"> <img alt="Static Badge" src="https://img.shields.io/badge/steam-%231b2838?style=for-the-badge&logo=STEAM">  </a>
-  
 
 </div>
 

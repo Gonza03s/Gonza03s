@@ -1,12 +1,12 @@
 
 <h1 align="center"><b>Welcome to my profile👋</b></h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div>
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
   
-  <p align="left">
+  <p align="top">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Inconsolata&size=25&duration=2000&pause=1000&color=1190E1&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Gonzalo;Welcome+to+my+Github+page!;Love+to+learn+new+stuffs" alt="Typing SVG" /></a>
   </p>
 
@@ -25,8 +25,9 @@
    •Gym💪<br>
    •Watching Anime<br>
    •Guitar 
-  
+   
   <br>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+

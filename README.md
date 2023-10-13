@@ -1,8 +1,8 @@
 
 <h1 align="center"><b>Welcome to my profile👋</b></h1>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
    
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
   
@@ -27,5 +27,6 @@
    •Guitar 
   
   <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

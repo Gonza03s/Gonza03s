@@ -5,8 +5,10 @@
 
   
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Inconsolata&size=25&duration=2000&pause=1000&color=1190E1&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Gonzalo;Welcome+to+my+Github+page!;Love+to+learn+new+stuffs" alt="Typing SVG" /></a>
+  
+<div align="top"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Inconsolata&size=25&duration=2000&pause=1000&color=1190E1&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Gonzalo;Welcome+to+my+Github+page!;Love+to+learn+new+stuffs" alt="Typing SVG" /></a> 
+</div>
+   
   
   <h2> 💬/ About me / </h2>
   

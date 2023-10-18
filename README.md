@@ -24,7 +24,7 @@
     
 <h2>   ⭐️ / Hobbies: / </h2>
 
-  - 💪 Gim
+  - 💪 Gym
   - 👾 Watching Anime
   - 🎸 Guitar
 

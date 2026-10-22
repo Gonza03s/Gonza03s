@@ -1,4 +1,10 @@
-## Hi there 👋, I'm Gonzalo A. Suarez
+
+<p align="center">
+  <img src="./banner.svg" alt="Gonzalo Suarez - Full-Stack Developer" width="100%">
+</p>
+
+
+
 
 [![gonzalosuar0327@gmail.com](https://img.shields.io/badge/gonzalosuar0327@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:gonzalosuar0327@gmail.com)](mailto:gonzalosuar0327@gmail.com)
 

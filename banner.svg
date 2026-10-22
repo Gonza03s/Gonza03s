@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gonzalo Suarez - Full-Stack Developer</title>
+  <desc id="desc">Dark minimal developer banner with a constellation network.</desc>
+
+  <rect width="1200" height="300" rx="28" fill="#0C0E15"/>
+
+  <!-- Subtle background accents -->
+  <circle cx="1130" cy="45" r="90" fill="#151925" opacity=".35"/>
+  <circle cx="1150" cy="250" r="115" fill="#171720" opacity=".3"/>
+
+  <!-- Main typography -->
+  <g transform="translate(72 66)">
+    <text x="0" y="0"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="16" font-weight="700"
+      letter-spacing="5" fill="#F2998F">
+      ANALYZE · CODE · SOLVE
+    </text>
+
+    <text x="0" y="69"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="60" font-weight="800"
+      letter-spacing="-1.5" fill="#FFF8EE">
+      Gonzalo Suarez
+    </text>
+
+    <text x="2" y="116"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      font-size="25" font-weight="500"
+      fill="#D8D5D0">
+      Full-Stack Developer
+    </text>
+
+    <!-- Decorative underline -->
+    <rect x="2" y="139" width="62" height="4" rx="2" fill="#F4C84A"/>
+    <rect x="72" y="139" width="25" height="4" rx="2" fill="#D9776F" opacity=".8"/>
+  </g>
+
+  <!-- Connection network -->
+  <g transform="translate(815 32)">
+    <path d="M18 151 L88 104 L143 126 L214 62 L281 96"
+      fill="none" stroke="#303649" stroke-width="2"/>
+
+    <path d="M18 151 L88 104 L143 126 L214 62 L281 96"
+      fill="none" stroke="#F4C84A" stroke-width="2.5"
+      stroke-dasharray="13 220" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset"
+        from="233" to="0" dur="6s" repeatCount="indefinite"/>
+    </path>
+
+    <circle cx="18" cy="151" r="6" fill="#D9776F"/>
+    <circle cx="88" cy="104" r="5" fill="#F4C84A" opacity=".8"/>
+    <circle cx="143" cy="126" r="4" fill="#D9776F"/>
+    <circle cx="214" cy="62" r="7" fill="#F4C84A"/>
+    <circle cx="281" cy="96" r="5" fill="#F4C84A" opacity=".65"/>
+
+    <!-- Star accents -->
+    <path d="M252 12 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"
+      fill="#F4C84A"/>
+    <path d="M222 0 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"
+      fill="#D9776F"/>
+    <path d="M300 29 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"
+      fill="#F4C84A"/>
+
+    <!-- Code-inspired detail -->
+    <g transform="translate(202 180)"
+      fill="none" stroke="#D9776F"
+      stroke-width="2.5" stroke-linecap="round"
+      stroke-linejoin="round" opacity=".9">
+      <path d="M12 0 L2 10 L12 20"/>
+      <path d="M31 0 L41 10 L31 20"/>
+      <path d="M26 -2 L18 22"/>
+    </g>
+
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="104" viewBox="0 0 1100 104" role="img" aria-labelledby="title desc">
+
+  <title id="title">Sobre mí</title>
+  <desc id="desc">Código, arquitectura y producto</desc>
+
+  <!-- Fondo a juego con el banner principal -->
+  <rect width="1100" height="104" rx="24" fill="#0C0E15" stroke="#303649" stroke-width="1"></rect>
+
+  <!-- Número de sección -->
+  <rect x="24" y="24" width="54" height="56" rx="16" fill="#0D1016" stroke="#303649" stroke-width="1"></rect>
+
+  <text x="51" y="58" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#F2998F">01</text>
+
+  <!-- Título y subtítulo -->
+  <text x="100" y="50" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#FFF8EE">SOBRE MÍ</text>
+
+  <text x="100" y="78" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#D8D5D0">Código, arquitectura y producto</text>
+
+  <!-- Acento coral y dorado -->
+  <rect x="100" y="91" width="126" height="4" rx="2" fill="#D9776F"></rect>
+
+  <!-- Constelación decorativa -->
+  <g transform="translate(775 10)">
+    <path d="M15 63 L96 24 L172 45 L240 17 L284 36" fill="none" stroke="#303649" stroke-width="1.5"></path>
+
+    <circle cx="15" cy="63" r="3.2" fill="#F2998F"></circle>
+    <circle cx="96" cy="24" r="4" fill="#F4C84A"></circle>
+    <circle cx="172" cy="45" r="3.8" fill="#F2998F"></circle>
+    <circle cx="240" cy="17" r="4" fill="#F4C84A"></circle>
+    <circle cx="284" cy="36" r="4.5" fill="#F4C84A"></circle>
+
+    <!-- Estrellas -->
+    <path d="M108 5 l2.5 5 5 2.5 -5 2.5 -2.5 5 -2.5 -5 -5 -2.5 5 -2.5z" fill="#D9776F"></path>
+
+    <path d="M232 -7 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z" fill="#F4C84A"></path>
+
+    <path d="M294 5 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z" fill="#F4C84A"></path>
+  </g>
+</svg>

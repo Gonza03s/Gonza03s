@@ -15,8 +15,9 @@
 
 ##
 
-## ~ About Me 💬 ~
-<img align="right" width="160" src="https://media1.tenor.com/m/3e98ZMyTMGAAAAAd/bangboo-zenless.gif"/>
+
+<img src="./sobre-mi.svg" alt="Sobre mí — Código, arquitectura y producto" width="100%">
+
 
 💻 I'm a Full Stack programming student at UTN (National Technological University) in Buenos Aires.
 

@@ -2,19 +2,7 @@
   <img src="./banner.svg" alt="Gonzalo Suarez - Full-Stack Developer" width="100%">
 </p>
 
-<p align="center">
-  <a href="mailto:gonzalosuar0327@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-11131A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gonzalo-suarez-786846357/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-11131A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-11131A?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Portfolio">
-  </a>
-</p>
+<p align="center"><a href="mailto:gonzalosuar0327@gmail.com"><img src="https://img.shields.io/badge/Gmail-11131A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gonzalo-suarez-786846357/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-11131A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-11131A?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Portfolio"></a></p>
 
 ##
 <img src="./sobre-mi.svg" alt="Sobre mí — Código, arquitectura y producto" width="100%">
